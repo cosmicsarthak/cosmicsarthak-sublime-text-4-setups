@@ -1,10 +1,10 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/Night Owl/Night Owl.sublime-color-scheme",
 	"font_face": "Cascadia Code PL",
-	"font_size": 13,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Default.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
