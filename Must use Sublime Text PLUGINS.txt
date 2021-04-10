@@ -1,2 +1,10 @@
-1. SublimeAStyleFormatter :  https://packagecontrol.io/packages/SublimeAStyleFormatter
-2. 
+1. SublimeAStyleFormatter :  https://packagecontrol.io/packages/SublimeAStyleFormatter     
+    Shortcut: ctrl+Alt+F
+    
+    Use to Format Whole file in C++ including Spaces and Indentation.
+    
+    
+    
+2. FastOlympicCoding:
+  
+  Use for auti input Oline Coding Competititions like CodeChef and CodeForces.
