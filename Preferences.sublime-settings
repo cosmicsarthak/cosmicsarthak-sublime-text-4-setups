@@ -1,10 +1,21 @@
 {
-	"color_scheme": "Packages/Night Owl/Night Owl.sublime-color-scheme",
-	"font_face": "Cascadia Code PL",
-	"font_size": 15,
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"font_face": "Cascadia Code PL",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+	"highlight_line": true,
+	"indent_guide_options": [ "draw_normal", "draw_active"],
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"wide_caret": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	// "caret_extra_width": 3,
+	"caret_style": "phase",
+	"bold_folder_labels": true,
 }
